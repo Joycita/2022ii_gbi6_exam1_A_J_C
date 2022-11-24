@@ -2,6 +2,12 @@
 
 #EXAMEN PARCIAL 1
 
+**Datos del Curso**
+
+- *Asignatura:* Bioinformatica
+- *Docente:* Moises Gualapuro
+
+
 **Datos Personales**
 
 - *Nombre:* Joyce Andrade
@@ -13,4 +19,12 @@
 - *Semestre:* 6to Semestre"
 
 - *Correo:* joyce.andrade@est.ikiam.edu.ec
+
+**Programas Usados** 
+- *Google Chrome*
+- *Git Bash* 
+- *Git-hub Desktop*
+- *Git-hub*
+
+**Datos del Equipo**
 
