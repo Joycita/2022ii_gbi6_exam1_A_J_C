@@ -13,7 +13,7 @@ PeptidosconeldominioWGS=`tail -n +1 grampa.csv | cut -d "," -f 4 | grep WGS | un
 for z in $PeptidosconeldominioWGS 
 do
   LongituddelosPeptidos=`echo ${#z} | sort -n`
-  echo "Peptido" $z "Longitud:" $LongituddelosPeptidos;
+  echo  "Longitud:" $LongituddelosPeptidos "Peptido" $z
 done >wgs.csv
 
 
