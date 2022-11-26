@@ -14,7 +14,7 @@ for z in $PeptidosconeldominioWGS
 do
   LongituddelosPeptidos=`echo ${#z} | sort -n`
   echo "Peptido" $z "Longitud:" $LongituddelosPeptidos;
-done>wgs.csv
+done >wgs.csv
 
 
 ##Envíe los cambios al repositorio principal con la leyenda “Apellido Nombre ha determinado los péptidos con dominio WGS”.
